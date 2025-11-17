@@ -7,5 +7,6 @@ public class SaludoAlumnos {
         System.out.println("Buenos días, os quiero saludar a TOD@S!!");
         System.out.println("Devolvedme el saludo con nombre y Apellidos. Buena práctica a valorar de cara a la nota final ;)");
         System.out.println("Un saludo, profe. Soy Alex Barriga");
+        System.out.println("Un saludo, profe. Soy Izan Quiles");
     }
 }
